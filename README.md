@@ -1,5 +1,5 @@
 To Do List
 
-A To Do List project. 
+A To Do List project.  🚀
 
-React + TypeScript + Vite.
+React + TypeScript + Vite. ✅
