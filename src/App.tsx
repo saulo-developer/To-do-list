@@ -5,13 +5,15 @@
 
  import './global.css';
 
+ import styles from './App.module.css';
+
 
 export function App() {
   
 
   return (
     <div>
-
+      <main>
       < Header 
       />
 
@@ -29,7 +31,10 @@ export function App() {
      />
     < Tasks 
     content="Integer urna interdum massa libero auctor neque turpis turpis semper. Duis vel sed fames integer." 
+  
     />
+
+</main>
     </div>
  
   )
