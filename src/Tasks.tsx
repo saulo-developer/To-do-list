@@ -1,7 +1,16 @@
-export function Tasks() 
+export function Tasks(props)
+
+
+
+
+
 {
 
-return <h1>Hello World</h1>
+return (
+    <div>
+     <h1>{props.content}</h1>
+     </div>
+)
 
 
 }
