@@ -1,0 +1,38 @@
+* {
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+
+:root {
+    /* Cores do Produto */
+    --blue-dark: #1E6F9F;
+    --blue: #4EABDE;
+    --purple-dark: #5E60CE;
+    --purple: #8284FA;
+  
+    /* Cores Base */
+    --gray-700: #0D0D0D;
+    --gray-600: #1A1A1A;
+    --gray-500: #262626;
+    --gray-400: #333333;
+    --gray-300: #808080;
+    --gray-200: #D9D9D9;
+    --gray-100: #F2F2F2;
+  
+    /* Cores de Feedback */
+    --danger: #E25858;
+  
+    /* Tipografia */
+    --font-family: 'Inter', sans-serif; /* Garanta que você importou essa fonte no seu CSS ou HTML */
+    --font-size-sm: 12px;
+    --font-size-md: 14px;
+    --font-size-lg: 16px;
+    --line-height: 140%;
+    --font-weight-regular: 400; /* Equivalente ao Regular */
+    --font-weight-bold: 700; /* Equivalente ao Bold */
+  }
+  
